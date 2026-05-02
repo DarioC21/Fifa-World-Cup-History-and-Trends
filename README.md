@@ -14,10 +14,11 @@ Which countries have been the most successful in World Cup history?
 Is there evidence of regional advantage, meaning that winners often come from the same continent as the host country?
 Data Source
 
-The data for this project comes from the TidyTuesday FIFA World Cup dataset from November 29, 2022. Two datasets were used:
-
+The data for this project comes from the TidyTuesday FIFA World Cup dataset from November 29, 2022. https://github.com/rfordatascience/tidytuesday/tree/main/data/2022/2022-11-29
+Two datasets were used:
 worldcups.csv for tournament-level information such as host, winner, attendance, number of games, and goals scored
 wcmatches.csv for match-level information such as scores, stage, and match outcomes
+
 Files in this Repository
 FinalProject.R : main R script used for the full analysis
 graph1_attendance_trend.png : attendance per match over time
